@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, Vigoliet! (Vigor Lundkvist) 👋
+
+## About me⚡
+<ol>
+  <li>🔭Currently studying as Cloud Developer - AWS</li>
+  <li>🤔21 Years of age</li>
+  <li>🌱Love TeamFightTactics</li>
+</ol>
 
 <!--
 **Vigoliet/Vigoliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
