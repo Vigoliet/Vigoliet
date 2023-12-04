@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vigor.lundkvist@live.se**
 
-- ⚡ Fun fact **I love TeamFightTactics**
+- ⚡ Fun fact **I love TEAMFIGHT TACTICS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
